@@ -1,2 +1,2 @@
 # BotCVM
-that was a stupid name
+an npm package like classvm but it actually works
